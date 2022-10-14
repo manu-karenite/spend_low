@@ -1,16 +1,9 @@
 # spend_low
 
-A new Flutter project.
+## A Flutter Application to Manage your Expenses with Chart Visualisation of Weekely Expenses
 
-## Getting Started
+![Application Home Page](https://res.cloudinary.com/techbuy/image/upload/v1665753116/WhatsApp_Image_2022-10-14_at_6.36.17_PM_d7rnye.jpg)
 
-This project is a starting point for a Flutter application.
+![Add Expense](https://res.cloudinary.com/techbuy/image/upload/v1665753116/WhatsApp_Image_2022-10-14_at_6.36.18_PM_siqmrj.jpg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![List of Expenses](https://res.cloudinary.com/techbuy/image/upload/v1665753117/WhatsApp_Image_2022-10-14_at_6.36.18_PM_1_kuoicw.jpg)
